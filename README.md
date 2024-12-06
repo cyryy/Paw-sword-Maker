@@ -9,3 +9,5 @@ The purr-fect password generator! Cute, fun, and secure.<br>
 Open index.html.<br>
 Set preferences.<br>
 Click ✨ Generate Password ✨.<br>
+
+Made with 💕 by Cyry.
